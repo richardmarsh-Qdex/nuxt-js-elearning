@@ -1,0 +1,19 @@
+{
+  "name": "elearning-platform",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "dependencies": {
+    "@nuxtjs/tailwindcss": "^6.8.0",
+    "@prisma/client": "^5.0.0",
+    "nuxt": "^3.8.0"
+  },
+  "devDependencies": {
+    "prisma": "^5.0.0"
+  }
+}
